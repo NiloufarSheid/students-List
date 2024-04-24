@@ -1,5 +1,6 @@
 import React from 'react';
-import "./students.css"
+import "./students.css";
+import Button  from '../../UI/button/Button';
 
 
 const Student = (props) => {
@@ -14,6 +15,9 @@ const Student = (props) => {
       <input type="text" value={props.phoneNumber} />
       <label>ایمیل</label>
       <input type="email" value={props.email} />
+      <label>
+        <Button>حذف</Button>
+      </label>
     </div>
   );
 }
