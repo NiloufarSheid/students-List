@@ -1,10 +1,12 @@
 import React from "react";
-import "./button.css"
-const Button =(props)=>{
-    <button className="Button"
-    onClick={()=>alert("button clicked")}>
+import "./button.css";
 
-{props.children}
-    </button>
-}
+const Button = (props) => {
+    return (
+        <button className="btn" onClick={props.deleted}>
+            حذف
+        </button>
+    );
+};
+
 export default Button;

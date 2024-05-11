@@ -1,0 +1,6 @@
+[
+    { "id": 0, "name": "niloofar", "classNumber": 102, "phoneNumber": 1234, "email": "sheidniloufar@yahoo.com" },
+    { "id": 1, "name": "sara", "classNumber": 204, "phoneNumber": 4567, "email": "shayasara@yahoo.com" },
+    { "id": 2, "name": "maryam", "classNumber": 307, "phoneNumber": 8976, "email": "dehqanimaryam@yahoo.com" },
+    { "id": 3, "name": "amir", "classNumber": 501, "phoneNumber": 9876, "email": "soheiliamir@yahoo.com" }
+]

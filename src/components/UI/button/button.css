@@ -1,7 +1,7 @@
-.Button{
-    background-color: transparent;
+.btn{
+    background-color: red;
     border: 1px solid transparent;
-    color: red;
+    color:#ffff;
     outline: none;
     cursor: pointer;
     font: inherit;
